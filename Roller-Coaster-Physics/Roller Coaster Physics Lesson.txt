@@ -1,0 +1,28 @@
+!!!Energy
+
+!!Ideal Roller Coasters
+Ideal roller coasters don’t actually exist, but they are useful for illustrating __The Law of Conservation of Energy__. This law says that energy cannot be created or destroyed, only transformed from one form to another. In an ideal roller coaster, there is no friction, so gravitational potential energy is converted directly to kinetic energy and back again with no loses. 
+
+Since energy cannot be created spontaneously (sorry, there are no perpetual motion machines!), there must be a mechanism for putting energy into the roller coaster cart at the beginning of the ride. This is provided by a mechanism that connects the cart to a motor and lifts it up the first hill. As the cart is lifted up, its gravitational potential energy, __EP,G__ increases. 
+At the top of that first hill, all of the energy in the cart is __EP,G__. As the cart heads down the hill, the potential energy converts to kinetic energy, __EK__. Kinetic energy is the energy of motion, and increases as the velocity of an object increases. So as it travels down the hill, the cart speeds up. 
+At the bottom of the first hill, the __EK__ is maximum and the cart is traveling at its fastest velocity. All of the __EP,G__ has been converted into __EK__. The track directs the cart to travel back up along the second hill, and the energy converts back into __EP,G__. 
+An ideal roller coaster, one in which there is no friction or air resistance, could travel up and down hills of the same high indefinitely. As you know from experience, real roller coaster rides don’t last forever. So where does that energy go?
+
+
+!!Real Roller Coasters
+Real roller coasters are subject to two forces that remove energy from the system: friction between the cart and the track, and air resistance. Both of these forces take energy from the cart and convert it to thermal energy, which is then dissipated to the surrounding atmosphere. The energy still remains in the universe- it has just been transformed. 
+Since energy is removed, the cart has the most energy at the top of the first hill. This is why the first hill in a roller coaster is always the largest- never again will the cart have enough energy to make it back up such a large hill. As it travels down the hill, the cart loses a small amount of energy to friction and air resistance. The remaining energy is converted to __EK__. When the cart turns to head back up the second hill, it has less energy to work with, and continues to lose energy along the trip back up. Consequently, the maximum height it can reach is much lower. 
+If the track was extended to infinity, eventually the cart would slow down and come to a stop. 
+
+
+
+!!!Newton’s Laws
+The most-applicable of Newton’s laws is Newton’s Second Law, which states: the acceleration of an object is proportional to the net force exerted on it. When the cart is at rest on the track, there are two forces acting on it: the force of gravity and the force of the track (also called the normal force). If the cart is on a level surface, these forces balance each other, and there is no acceleration. 
+If the cart is on a hill, however, the force of gravity no longer perfectly balances the normal force. Instead, it pulls the cart down the hill. As the cart moves, it also experiences friction and air resistance, which decrease the acceleration because they act in the direction opposite the cart’s motion. 
+As the cart travels down a hill, the net force is in the direction of motion, which causes the cart to speed up. As it travels up the hill, the net force is opposite the direction of motion. This means that the acceleration is opposite the velocity, so the cart slows down. Think about your experiences riding a roller coaster: you speed up going down and slow down going up.
+
+!!!Lesson Summary
+*Energy can be transformed between three forms: __EP,G__, __EK__, and thermal energy. Systems such as a roller coaster must still obey __The Law of Conservation of Energy__. 
+*Ideal roller coasters transform energy back and forth between __EP,G__ and __EK__, speeding up as they travel down a hill and slowing down as they travel up. 
+*Real roller coasters lose energy to friction and air resistance, which limits the energy they have available to travel the rest of the track.
+*Unbalanced forces cause the cart to accelerate according to Newton’s Second Law, speeding up on the downhills and slowing down on the uphills. 
